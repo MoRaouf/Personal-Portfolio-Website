@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.1fe8b16f.chunk.css",
+    "main.css": "/static/css/main.68a10072.chunk.css",
     "main.js": "/static/js/main.692c2e3f.chunk.js",
     "main.js.map": "/static/js/main.692c2e3f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ad69a790.js",
@@ -14,11 +14,11 @@
     "static/js/4.b461c524.chunk.js": "/static/js/4.b461c524.chunk.js",
     "static/js/4.b461c524.chunk.js.map": "/static/js/4.b461c524.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6d8b7abcd7a4a9e60974689f19c3900a.js": "/precache-manifest.6d8b7abcd7a4a9e60974689f19c3900a.js",
+    "precache-manifest.51d1701fe04547b22f88144e4f5de6e0.js": "/precache-manifest.51d1701fe04547b22f88144e4f5de6e0.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.dd15f65b.chunk.css.map": "/static/css/3.dd15f65b.chunk.css.map",
     "static/css/4.5233b497.chunk.css.map": "/static/css/4.5233b497.chunk.css.map",
-    "static/css/main.1fe8b16f.chunk.css.map": "/static/css/main.1fe8b16f.chunk.css.map",
+    "static/css/main.68a10072.chunk.css.map": "/static/css/main.68a10072.chunk.css.map",
     "static/js/2.8ebfaf69.chunk.js.LICENSE.txt": "/static/js/2.8ebfaf69.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Heriot-WattLogo.png": "/static/media/Heriot-WattLogo.7a870290.png",
@@ -40,7 +40,7 @@
   "entrypoints": [
     "static/js/runtime-main.ad69a790.js",
     "static/js/2.8ebfaf69.chunk.js",
-    "static/css/main.1fe8b16f.chunk.css",
+    "static/css/main.68a10072.chunk.css",
     "static/js/main.692c2e3f.chunk.js"
   ]
 }
