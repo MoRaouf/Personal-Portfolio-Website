@@ -12,6 +12,7 @@
 }
 
 .profile-image:hover {
+  background-color: $buttonHover;
   box-shadow: none;
 }
 
@@ -93,6 +94,7 @@
   }
 
   .profile-image:hover {
+    background-color: $buttonHover;
     box-shadow: $lightBoxShadow 0 50px 50px -50px;
     transition: 0.3s ease-out;
   }
