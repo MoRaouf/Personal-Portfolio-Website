@@ -22,7 +22,7 @@
   margin-top: 20px;
   font-size: 20px;
   font-weight: 200;
-  color: $textColorDark;
+  color: $textColor;
   text-decoration: none;
 }
 
@@ -34,6 +34,7 @@
 }
 
 .contact-subtitle {
+  color: $textColor;
   text-transform: lowercase;
 }
 
