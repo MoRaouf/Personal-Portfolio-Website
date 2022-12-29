@@ -20,9 +20,9 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Islam Abdo",
-  title: "Hi all, I'm Islam",
-  subTitle: emoji("A passionate Embedded Software Developer 🚀 having an experience of working with Microcontrollers, Sensors, Firmwares, and Real-Time Operating Systems. Good working knowledge in C, Python, and Circuit Design."),
+  username: "MoSpace",
+  title: "Hi all, I'm Mohammed",
+  subTitle: emoji("Business-oriented Data Scientist 👨‍💻 | Curious NLP Engineer 🤖| Tech Writer ✍️"),
   resumeLink:
     "https://drive.google.com/drive/folders/1sa5V7hjf66fkZuOpJz1Th2jQNC9WBKOk?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
@@ -32,14 +32,15 @@ const greeting = {
 
 const socialMediaLinks = {
   //   /* Your Social Media Link */
-  github: "https://github.com/Eslam-Abdo",
-  linkedin: "https://eg.linkedin.com/in/Islam-Abdo/",
-  youtube: "https://www.youtube.com/channel/UC8Vd3gI4ckdl9JJMLO09oXA",
-  gmail: "eng-islam.abdo1722@alexu.edu.eg",
-  facebook: "https://www.facebook.com/islam.abdo.925/",
-  instagram: "https://www.instagram.com/islamabd0/",
-  hackerrank: "https://www.hackerrank.com/Eslam_Abdo",
-  kaggle: "https://www.kaggle.com/islamabd0",
+  github: "https://github.com/MoRaouf",
+  linkedin: "https://www.linkedin.com/in/mohammedraouf/",
+  //youtube: "https://www.youtube.com/channel/UC8Vd3gI4ckdl9JJMLO09oXA",
+  gmail: "mhmd.raouf.1@gmail.com",
+  twitter: "https://twitter.com/_MRaouf",
+  //facebook: "https://www.facebook.com/islam.abdo.925/",
+  //instagram: "https://www.instagram.com/islamabd0/",
+  //hackerrank: "https://www.hackerrank.com/Eslam_Abdo",
+  kaggle: "https://www.kaggle.com/mohammedraouf",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
@@ -48,8 +49,8 @@ const socialMediaLinks = {
 // Skills Section
 
 const skillsSection = {
-  title: "What I do",
-  subTitle: "DEVELOPING FIRMWARE OF MICROCONTROLLERS AND DESIGNING HARDWARE CIRCUIT (PCBs)",
+  title: "About Me",
+  subTitle: "PASSIONATE DATA SCIENTIST WITH INTEREST IN THE INTERSECTION BETWEEN NLP & TOURISM",
   skills: [
     emoji("⚡ Design and implement software of Embedded devices and systems."),
     emoji("⚡ Working on test and debug tools like logic analyzer, Oscilloscope, etc"),
@@ -64,74 +65,46 @@ https://iconify.design/
 
   softwareSkills: [
     {
-      skillName: "C",
-      classname: "logos:c"
+      skillName: "Python",
+      classname: "logos:python"
     },
     {
-      skillName: "python",
-      classname: "logos:python",
-    },
-    // {
-    //   skillName: "Embedded C",
-    //   classname: "fab fa-css3-alt"
-    // },
-    {
-      skillName: "Microcontroller",
-      classname: "uil:processor"
+      skillName: "PyTorch",
+      classname: "logos:pytorch-icon",
     },
     {
-      skillName: "AVR",
-      classname: "file-icons:assembly-avr"
+      skillName: "spaCy",
+      classname: "simple-icons:spacy"
     },
     {
-      skillName: "ARM",
-      classname: "file-icons:assembly-arm"
+      skillName: "AWS",
+      classname: "logos:aws"
     },
     {
-      skillName: "STM32",
-      classname: "simple-icons:stmicroelectronics"
+      skillName: "MySQL",
+      classname: "logos:mysql"
     },
     {
-      skillName: "Arduino",
-      classname: "logos:arduino"
+      skillName: "Neo4j",
+      classname: "logos:neo4j"
     },
     {
-      skillName: "ESP8622",
-      classname: "simple-icons:espressif"
+      skillName: "PySpark",
+      classname: "cib:apache-spark"
     },
     {
-      skillName: "Raspberry pi",
-      classname: "logos:raspberry-pi"
+      skillName: "Git",
+      classname: "vscode-icons:file-type-git"
     },
     {
-      skillName: "NVIDIA Jetson Nano",
-      classname: "simple-icons:nvidia"
+      skillName: "Docker",
+      classname: "logos:docker-icon"
     },
     {
-      skillName: "Eclipse",
-      classname: "logos:eclipse-icon"
-    },
-    // {
-    //   skillName: "Keil",
-    //   classname: "fab fa-docker"
-    // },
-    // {
-    //   skillName: "Eagle",
-    //   classname: "fab fa-docker"
-    // },
-    {
-      skillName: "PCB design",
-      classname: "flat-color-icons:electronics"
+      skillName: "Jira",
+      classname: "logos:jira"
     },
     {
-      skillName: "Linux",
-      classname: "logos:linux-tux"
-    },
-    {
-      skillName: "Matlab",
-      classname: "vscode-icons:file-type-matlab"
-    },
-     {
       skillName: "VScode",
       classname: "vscode-icons:file-type-vscode"
     }
@@ -146,10 +119,10 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Alexandria University",
+      schoolName: "Heriot-Watt University",
       logo: require("./assets/images/Alexandria_University_logo.png"), 
-      subHeader: "Bachelor of Engineering in Electronics & Communications",
-      duration: "September 2017 - June 2022",
+      subHeader: "MSc in Data Science",
+      duration: "January 2020 - September 2022",
       desc: "Took courses about Software Engineering, Operating Systems, Embedded, Electronics, Communications ...",
       descBullets: [
         "I have studied basic software engineering subjects like Programming, OS, Embedded, Electronics, Communications etc.",
