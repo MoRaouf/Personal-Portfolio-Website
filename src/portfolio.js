@@ -221,8 +221,8 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  title: "GitHub Projects",
+  subtitle: "A list of my most recent open source projects",
   projects: [
     {
       image: require("./assets/images/saayaHealthLogo.webp"),
@@ -281,7 +281,7 @@ const bigProjects = {
 const achievementSection = {
   title: "Certifications",
   subtitle:
-    "Achievements, Certifications and Some Cool Stuff that I have done !",
+    "Certifications and Some Cool Stuff that I have done!",
 
   achievementsCards: [
     {
@@ -336,9 +336,9 @@ const achievementSection = {
 // Blogs Section
 
 const blogSection = {
-  title: "Blogs",
+  title: "Latest Blogs",
   subtitle:
-    "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
+    "A hand-picked collection of articles from my blog",
   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
     {
