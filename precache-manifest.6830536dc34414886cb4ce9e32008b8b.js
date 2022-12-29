@@ -1,55 +1,59 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "948e9e970b5bb9c48e007fea131008f5",
+    "revision": "9b8f2ec3ae4ff730e5220aaacaffcb64",
     "url": "/index.html"
   },
   {
-    "revision": "41102d199860d740712c",
+    "revision": "b942c059f37014dabc7d",
     "url": "/static/css/3.30932f76.chunk.css"
   },
   {
-    "revision": "5acad014ea552972533b",
+    "revision": "28916eed0ef29f081bd4",
     "url": "/static/css/4.341ba6c4.chunk.css"
   },
   {
-    "revision": "3720d939296d500e2c03",
+    "revision": "ad0647948574be54d66b",
     "url": "/static/css/main.19115340.chunk.css"
   },
   {
-    "revision": "95dad2d80e12cdc0ef3a",
-    "url": "/static/js/2.bcfd9adc.chunk.js"
+    "revision": "2bd9e188ed44f0362534",
+    "url": "/static/js/2.0a97e994.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/static/js/2.bcfd9adc.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.0a97e994.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "41102d199860d740712c",
-    "url": "/static/js/3.d92f5c1d.chunk.js"
+    "revision": "b942c059f37014dabc7d",
+    "url": "/static/js/3.79e48779.chunk.js"
   },
   {
-    "revision": "5acad014ea552972533b",
-    "url": "/static/js/4.12987857.chunk.js"
+    "revision": "28916eed0ef29f081bd4",
+    "url": "/static/js/4.b461c524.chunk.js"
   },
   {
-    "revision": "3720d939296d500e2c03",
-    "url": "/static/js/main.d606238f.chunk.js"
+    "revision": "ad0647948574be54d66b",
+    "url": "/static/js/main.1f92ab23.chunk.js"
   },
   {
-    "revision": "55a88786e2e561b3773a",
-    "url": "/static/js/runtime-main.2d4ac6e5.js"
+    "revision": "4b4f1f2a09a761bcf8b5",
+    "url": "/static/js/runtime-main.e0324340.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "/static/media/Agustina.21f233e1.woff"
   },
   {
-    "revision": "05949cdcecba4d9a4511901b981957b1",
-    "url": "/static/media/Alexandria_University_logo.05949cdc.png"
+    "revision": "7a870290bc48efa62703cf5ce77939a0",
+    "url": "/static/media/Heriot-WattLogo.7a870290.png"
   },
   {
     "revision": "57cf954af3795333eb3e928daffdd4aa",
     "url": "/static/media/MIA_logo.57cf954a.png"
+  },
+  {
+    "revision": "3d87a14b57ac4c6ea4163bd8735d9398",
+    "url": "/static/media/Minia-Uni-logo.3d87a14b.jpg"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
