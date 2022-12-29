@@ -124,7 +124,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Heriot-Watt University",
-      logo: require("./assets/images/Alexandria_University_logo.png"), 
+      logo: require("./assets/images/Heriot-WattLogo.png"), 
       subHeader: "MSc in Data Science",
       duration: "January 2020 - September 2022",
       desc: "Took courses about Software Engineering, Operating Systems, Embedded, Electronics, Communications ...",
@@ -136,9 +136,9 @@ const educationInfo = {
     },
     {
       schoolName: "Minia University",
-      logo: require("./assets/images/Alexandria_University_logo.png"), 
+      logo: require("./assets/images/Minia-Uni-logo.jpg"), 
       subHeader: "BSc in Mechatronics & Industrial Robotics",
-      duration: "January 2020 - September 2022",
+      duration: "October 2014 - February 2019",
       desc: "Took courses about Software Engineering, Operating Systems, Embedded, Electronics, Communications ...",
       descBullets: [
         "I have studied basic software engineering subjects like Programming, OS, Embedded, Electronics, Communications etc.",
