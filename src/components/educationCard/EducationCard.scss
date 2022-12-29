@@ -63,7 +63,7 @@
 }
 
 .education-text-duration {
-  color: $subTitle;
+  color: $titleColor;
   font-size: 19px;
   margin: 0px;
   padding-top: 0.5rem;
@@ -76,6 +76,7 @@
 }
 
 .education-text-bullets > ul {
+  color: $subTitle;
   margin-top: 0.5rem;
 }
 
