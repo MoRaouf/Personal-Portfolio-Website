@@ -11,6 +11,7 @@
   transition: all 0.3s ease;
 }
 .repo-card-div:hover {
+  background-color: $buttonHover;
   box-shadow: $lightBoxShadowDark 0px 20px 30px -10px;
 }
 
@@ -85,6 +86,6 @@
   color: $textColorDark;
 }
 .dark-card-mode:hover {
-  background-color: $buttonColor !important;
+  background-color: $buttonHover !important;
   box-shadow: 0px 0px 16px $darkBoxShadow;
 }
