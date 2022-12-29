@@ -1,15 +1,16 @@
 @import "../../_globalColor";
 
 .achievement-heading {
-  font-size: 56px;
+  font-size: 40px;
   font-weight: 400;
   line-height: normal;
   margin: 0px;
 }
 .achievement-subtitle {
-  text-transform: uppercase;
+  text-transform: lowercase;
+  font-size: 20px;
   margin: 0px;
-  margin-bottom: 50px;
+  margin-bottom: 20px;
 }
 .subTitle {
   color: $subTitle;
