@@ -31,9 +31,11 @@
   text-align: center;
 }
 .certificate-card:hover {
+  background-color: $buttonHover;
   box-shadow: $lightBoxShadowDark 0px 20px 30px -10px;
 }
 .dark-mode.certificate-card:hover {
+  background-color: $buttonHover;
   box-shadow: $achievementCertificateCardHoverDark 0px 20px 30px -10px;
 }
 .certificate-image-div {
