@@ -18,7 +18,8 @@
 }
 
 .subTitle {
-  color: $subTitle !important;
+  color: $textColor !important;
+  font-size: 20px;
 }
 
 .greeting-main {
@@ -35,7 +36,7 @@
 }
 
 .greeting-text {
-  font-size: 70px;
+  font-size: 60px;
   line-height: 1.1;
   color: $textColor !important;
 }
