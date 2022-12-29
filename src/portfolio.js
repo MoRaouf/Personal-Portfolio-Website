@@ -279,7 +279,7 @@ const bigProjects = {
 // Include certificates, talks etc
 
 const achievementSection = {
-  title: "Certifications),
+  title: "Certifications",
   subtitle:
     "Achievements, Certifications and Some Cool Stuff that I have done !",
 
