@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/static/css/main.4e3bbe5f.chunk.css",
-    "main.js": "/static/js/main.5df46611.chunk.js",
-    "main.js.map": "/static/js/main.5df46611.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.78de9985.js",
-    "runtime-main.js.map": "/static/js/runtime-main.78de9985.js.map",
-    "static/js/2.0a97e994.chunk.js": "/static/js/2.0a97e994.chunk.js",
-    "static/js/2.0a97e994.chunk.js.map": "/static/js/2.0a97e994.chunk.js.map",
+    "main.js": "/static/js/main.692c2e3f.chunk.js",
+    "main.js.map": "/static/js/main.692c2e3f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2852aeae.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2852aeae.js.map",
+    "static/js/2.8ebfaf69.chunk.js": "/static/js/2.8ebfaf69.chunk.js",
+    "static/js/2.8ebfaf69.chunk.js.map": "/static/js/2.8ebfaf69.chunk.js.map",
     "static/css/3.8e13c12d.chunk.css": "/static/css/3.8e13c12d.chunk.css",
-    "static/js/3.79e48779.chunk.js": "/static/js/3.79e48779.chunk.js",
-    "static/js/3.79e48779.chunk.js.map": "/static/js/3.79e48779.chunk.js.map",
+    "static/js/3.f6d7b0b6.chunk.js": "/static/js/3.f6d7b0b6.chunk.js",
+    "static/js/3.f6d7b0b6.chunk.js.map": "/static/js/3.f6d7b0b6.chunk.js.map",
     "static/css/4.7e0fa410.chunk.css": "/static/css/4.7e0fa410.chunk.css",
     "static/js/4.b461c524.chunk.js": "/static/js/4.b461c524.chunk.js",
     "static/js/4.b461c524.chunk.js.map": "/static/js/4.b461c524.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.62619fb7cea3e2b0b6aac0f2f4d01e6a.js": "/precache-manifest.62619fb7cea3e2b0b6aac0f2f4d01e6a.js",
+    "precache-manifest.556e52de9b43abe73ebc302be9bffc16.js": "/precache-manifest.556e52de9b43abe73ebc302be9bffc16.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.8e13c12d.chunk.css.map": "/static/css/3.8e13c12d.chunk.css.map",
     "static/css/4.7e0fa410.chunk.css.map": "/static/css/4.7e0fa410.chunk.css.map",
     "static/css/main.4e3bbe5f.chunk.css.map": "/static/css/main.4e3bbe5f.chunk.css.map",
-    "static/js/2.0a97e994.chunk.js.LICENSE.txt": "/static/js/2.0a97e994.chunk.js.LICENSE.txt",
+    "static/js/2.8ebfaf69.chunk.js.LICENSE.txt": "/static/js/2.8ebfaf69.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Heriot-WattLogo.png": "/static/media/Heriot-WattLogo.7a870290.png",
     "static/media/MIA_logo.png": "/static/media/MIA_logo.57cf954a.png",
@@ -38,9 +38,9 @@
     "static/media/TalkCard.scss": "/static/media/talksCardBack.13780cdd.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.78de9985.js",
-    "static/js/2.0a97e994.chunk.js",
+    "static/js/runtime-main.2852aeae.js",
+    "static/js/2.8ebfaf69.chunk.js",
     "static/css/main.4e3bbe5f.chunk.css",
-    "static/js/main.5df46611.chunk.js"
+    "static/js/main.692c2e3f.chunk.js"
   ]
 }
