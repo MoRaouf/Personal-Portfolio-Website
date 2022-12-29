@@ -22,7 +22,7 @@ const illustration = {
 const greeting = {
   username: "MoSpace",
   title: "Hi all, I'm Mohammed",
-  subTitle: emoji("Business-oriented Data Scientist 👨‍💻 | Curious NLP Engineer 🤖| Tech Writer ✍️"),
+  subTitle: emoji("Data Scientist 👨‍💻 | Curious NLP Engineer 🤖| Tech Writer ✍️"),
   resumeLink:
     "https://drive.google.com/drive/folders/1sa5V7hjf66fkZuOpJz1Th2jQNC9WBKOk?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
@@ -73,6 +73,10 @@ https://iconify.design/
       classname: "logos:pytorch-icon",
     },
     {
+      skillName: "Sci-Kit Learn",
+      classname: "simple-icons:scikitlearn",
+    },
+    {
       skillName: "spaCy",
       classname: "simple-icons:spacy"
     },
@@ -86,7 +90,7 @@ https://iconify.design/
     },
     {
       skillName: "Neo4j",
-      classname: "logos:neo4j"
+      classname: "simple-icons:neo4j"
     },
     {
       skillName: "PySpark",
@@ -122,6 +126,18 @@ const educationInfo = {
       schoolName: "Heriot-Watt University",
       logo: require("./assets/images/Alexandria_University_logo.png"), 
       subHeader: "MSc in Data Science",
+      duration: "January 2020 - September 2022",
+      desc: "Took courses about Software Engineering, Operating Systems, Embedded, Electronics, Communications ...",
+      descBullets: [
+        "I have studied basic software engineering subjects like Programming, OS, Embedded, Electronics, Communications etc.",
+        "Apart from this, I have done courses on Embedded System, ARM, C/C++, ect.",
+        "I was joined a technical team as a student activity and I was involved a robotics competitions.",
+      ],
+    },
+    {
+      schoolName: "Minia University",
+      logo: require("./assets/images/Alexandria_University_logo.png"), 
+      subHeader: "BSc in Mechatronics & Industrial Robotics",
       duration: "January 2020 - September 2022",
       desc: "Took courses about Software Engineering, Operating Systems, Embedded, Electronics, Communications ...",
       descBullets: [
@@ -263,9 +279,9 @@ const bigProjects = {
 // Include certificates, talks etc
 
 const achievementSection = {
-  title: emoji("Achievements And Certifications 🏆 "),
+  title: "Certifications),
   subtitle:
-    "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
+    "Achievements, Certifications and Some Cool Stuff that I have done !",
 
   achievementsCards: [
     {
@@ -314,7 +330,7 @@ const achievementSection = {
       ]
     }
   ],
-  display: false // Set false to hide this section, defaults to true
+  display: true // Set false to hide this section, defaults to true
 };
 
 // Blogs Section
@@ -374,11 +390,11 @@ const podcastSection = {
 };
 
 const contactInfo = {
-  title: emoji("Contact Me ☎️"),
+  title: emoji("REACH OUT TO ME! ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+20-1116162620",
-  email_address: "eng-islam.abdo1722@alexu.edu.eg"
+  //number: "+20-1116162620",
+  email_address: "mhmd.raouf.1@gmail.com"
 };
 
 // Twitter Section
