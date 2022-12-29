@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.19115340.chunk.css",
-    "main.js": "/static/js/main.12822491.chunk.js",
-    "main.js.map": "/static/js/main.12822491.chunk.js.map",
+    "main.js": "/static/js/main.394f1927.chunk.js",
+    "main.js.map": "/static/js/main.394f1927.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2d4ac6e5.js",
     "runtime-main.js.map": "/static/js/runtime-main.2d4ac6e5.js.map",
-    "static/js/2.4a447249.chunk.js": "/static/js/2.4a447249.chunk.js",
-    "static/js/2.4a447249.chunk.js.map": "/static/js/2.4a447249.chunk.js.map",
+    "static/js/2.e9775e41.chunk.js": "/static/js/2.e9775e41.chunk.js",
+    "static/js/2.e9775e41.chunk.js.map": "/static/js/2.e9775e41.chunk.js.map",
     "static/css/3.30932f76.chunk.css": "/static/css/3.30932f76.chunk.css",
     "static/js/3.d92f5c1d.chunk.js": "/static/js/3.d92f5c1d.chunk.js",
     "static/js/3.d92f5c1d.chunk.js.map": "/static/js/3.d92f5c1d.chunk.js.map",
@@ -14,12 +14,12 @@
     "static/js/4.12987857.chunk.js": "/static/js/4.12987857.chunk.js",
     "static/js/4.12987857.chunk.js.map": "/static/js/4.12987857.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e0dbb473e7528e01f208d23ed5249b3e.js": "/precache-manifest.e0dbb473e7528e01f208d23ed5249b3e.js",
+    "precache-manifest.e84def46c25bad22cbf0a96f2d4330dd.js": "/precache-manifest.e84def46c25bad22cbf0a96f2d4330dd.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.30932f76.chunk.css.map": "/static/css/3.30932f76.chunk.css.map",
     "static/css/4.341ba6c4.chunk.css.map": "/static/css/4.341ba6c4.chunk.css.map",
     "static/css/main.19115340.chunk.css.map": "/static/css/main.19115340.chunk.css.map",
-    "static/js/2.4a447249.chunk.js.LICENSE.txt": "/static/js/2.4a447249.chunk.js.LICENSE.txt",
+    "static/js/2.e9775e41.chunk.js.LICENSE.txt": "/static/js/2.e9775e41.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Alexandria_University_logo.png": "/static/media/Alexandria_University_logo.05949cdc.png",
     "static/media/MIA_logo.png": "/static/media/MIA_logo.57cf954a.png",
@@ -38,8 +38,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2d4ac6e5.js",
-    "static/js/2.4a447249.chunk.js",
+    "static/js/2.e9775e41.chunk.js",
     "static/css/main.19115340.chunk.css",
-    "static/js/main.12822491.chunk.js"
+    "static/js/main.394f1927.chunk.js"
   ]
 }
