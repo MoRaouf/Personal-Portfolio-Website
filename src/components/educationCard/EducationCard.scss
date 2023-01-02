@@ -5,15 +5,6 @@
   flex-direction: row;
 }
 
-.education-card:hover {
-  background-color: $buttonHover;
-  box-shadow: $lightBoxShadowDark 0px 20px 30px -10px;
-}
-.dark-mode.education-card:hover {
-  background-color: $buttonHover;
-  box-shadow: $achievementCertificateCardHoverDark 0px 20px 30px -10px;
-}
-
 .education-card:hover + .education-card-border {
   border-color: $educationCardBorder;
   width: 100%;
