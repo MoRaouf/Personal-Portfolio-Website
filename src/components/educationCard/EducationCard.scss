@@ -76,8 +76,11 @@
 }
 
 .education-text-bullets > ul {
-  color: $talkCardSubTitle;
   margin-top: 0.5rem;
+}
+
+.education-text-bullets > ul li {
+  color: $talkCardSubTitle;
 }
 
 /* Media Query */
