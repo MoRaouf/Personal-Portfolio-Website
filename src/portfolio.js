@@ -22,7 +22,8 @@ const illustration = {
 const greeting = {
   username: "MoSpace",
   title: "Hi all, I'm Mohammed",
-  subTitle: emoji("Data Scientist 👨‍💻 | Curious NLP Engineer 🤖| Tech Writer ✍️"),
+  subTitle: emoji("Applied Data Scientist & NLP Engineer. I have grown knowledge of data and its impact on the business, building & delivering predictive models & using SOTA language models to tackle business needs."),
+//   subTitle: emoji("Data Scientist 👨‍💻 | Curious NLP Engineer 🤖| Tech Writer ✍️"),
   resumeLink:
     "https://drive.google.com/drive/folders/1sa5V7hjf66fkZuOpJz1Th2jQNC9WBKOk?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
@@ -35,7 +36,7 @@ const socialMediaLinks = {
   github: "https://github.com/MoRaouf",
   linkedin: "https://www.linkedin.com/in/mohammedraouf/",
   //youtube: "https://www.youtube.com/channel/UC8Vd3gI4ckdl9JJMLO09oXA",
-  gmail: "mhmd.raouf.1@gmail.com",
+  gmail: "mhmd.raouf@outlook.com",
   twitter: "https://twitter.com/_MRaouf",
   //facebook: "https://www.facebook.com/islam.abdo.925/",
   //instagram: "https://www.instagram.com/islamabd0/",
@@ -49,13 +50,12 @@ const socialMediaLinks = {
 // Skills Section
 
 const skillsSection = {
-  title: "About Me",
+  title: "Data Scientist & NLP Engineer",
   subTitle: "PASSIONATE DATA SCIENTIST WITH INTEREST IN THE INTERSECTION BETWEEN NLP & TOURISM",
   skills: [
-    emoji("⚡ Design and implement software of Embedded devices and systems."),
-    emoji("⚡ Working on test and debug tools like logic analyzer, Oscilloscope, etc"),
-    emoji("⚡ Working on tools like Keil, Eclipse, Truestudio, VScode, Eagle, etc. "),
-    emoji("⚡ Design Electronics circuits and hardware PCBs")
+    emoji("⚡ Leverage knowledge of data science, methodologies, and processing techniques to analyze vast amounts of data for decision support."),
+    emoji("⚡ Use state-of-the-art NLP models to solve Tourism-related problems."),
+    emoji("⚡ Acquire growing knowledge of Big Data & Cloud Deployment."),
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -127,11 +127,13 @@ const educationInfo = {
       logo: require("./assets/images/Heriot-WattLogo.png"), 
       subHeader: "MSc in Data Science",
       duration: "January 2020 - September 2022",
-      desc: "Took courses about Software Engineering, Operating Systems, Embedded, Electronics, Communications ...",
+      desc: "Graduated with Distinction. Masters' dissertation title was `NLP-powered Recommendation system using Knowledge Graph for Tourism` ",
       descBullets: [
-        "I have studied basic software engineering subjects like Programming, OS, Embedded, Electronics, Communications etc.",
-        "Apart from this, I have done courses on Embedded System, ARM, C/C++, ect.",
-        "I was joined a technical team as a student activity and I was involved a robotics competitions.",
+        "Acquired an open source textual data related to Tourism",
+        "Processed the data using different NLP techniques such as coreference resolution.",
+        "Trained the state-of-the-art Transformers model `RoBERTa` for the usage in the recommender system.",
+        "Built a knowledge-based database using Neo4j.",
+        "Built a recommender system from the trained transformers model to recommend single day & multi-day travel packages considering user preferences.",
       ],
     },
     {
@@ -139,12 +141,12 @@ const educationInfo = {
       logo: require("./assets/images/Minia-Uni-logo.jpg"), 
       subHeader: "BSc in Mechatronics & Industrial Robotics",
       duration: "October 2014 - February 2019",
-      desc: "Took courses about Software Engineering, Operating Systems, Embedded, Electronics, Communications ...",
-      descBullets: [
-        "I have studied basic software engineering subjects like Programming, OS, Embedded, Electronics, Communications etc.",
-        "Apart from this, I have done courses on Embedded System, ARM, C/C++, ect.",
-        "I was joined a technical team as a student activity and I was involved a robotics competitions.",
-      ],
+      desc: "Ranked 1st in the program.",
+//       descBullets: [
+//         "I have studied basic software engineering subjects like Programming, OS, Embedded, Electronics, Communications etc.",
+//         "Apart from this, I have done courses on Embedded System, ARM, C/C++, ect.",
+//         "I was joined a technical team as a student activity and I was involved a robotics competitions.",
+//       ],
     }
   ]
 };
@@ -392,9 +394,9 @@ const podcastSection = {
 const contactInfo = {
   title: emoji("REACH OUT TO ME! ☎️"),
   subtitle:
-    "Discuss a project or just want to say hi? My Inbox is open for all.",
+    "Discuss a project or just want to say Hi? My Inbox is open for all.",
   //number: "+20-1116162620",
-  email_address: "mhmd.raouf.1@gmail.com"
+  email_address: "mhmd.raouf@outlook.com"
 };
 
 // Twitter Section
