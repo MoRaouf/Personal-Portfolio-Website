@@ -127,14 +127,14 @@ const educationInfo = {
       logo: require("./assets/images/Heriot-WattLogo.png"), 
       subHeader: "MSc in Data Science (Distinction)",
       duration: "January 2020 - September 2022",
-      desc: "Masters' dissertation titled \"NLP-powered Recommendation system using Knowledge Graph for Tourism\":",
-      descBullets: [
-        "Acquired an open source textual data related to Tourism.",
-        "Processed the data using different NLP techniques such as coreference resolution.",
-        "Trained the state-of-the-art Transformers model `RoBERTa` for the usage in the recommender system.",
-        "Built a knowledge-based database using Neo4j.",
-        "Built a recommender system from the trained transformers model to recommend single day & multi-day travel packages considering user preferences.",
-      ],
+      desc: "Masters' dissertation titled \"NLP-powered Recommendation system using Knowledge Graph for Tourism\"",
+//       descBullets: [
+//         "Acquired an open source textual data related to Tourism.",
+//         "Processed the data using different NLP techniques such as coreference resolution.",
+//         "Trained the state-of-the-art Transformers model `RoBERTa` for the usage in the recommender system.",
+//         "Built a knowledge-based database using Neo4j.",
+//         "Built a recommender system from the trained transformers model to recommend single day & multi-day travel packages considering user preferences.",
+//       ],
     },
     {
       schoolName: "Minia University",
