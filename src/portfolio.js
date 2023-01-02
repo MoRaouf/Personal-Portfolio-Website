@@ -125,11 +125,11 @@ const educationInfo = {
     {
       schoolName: "Heriot-Watt University",
       logo: require("./assets/images/Heriot-WattLogo.png"), 
-      subHeader: "MSc in Data Science",
+      subHeader: "MSc in Data Science (Distinction)",
       duration: "January 2020 - September 2022",
-      desc: "Graduated with Distinction. Masters' dissertation title was `NLP-powered Recommendation system using Knowledge Graph for Tourism` ",
+      desc: "Masters' dissertation titled \"NLP-powered Recommendation system using Knowledge Graph for Tourism\":",
       descBullets: [
-        "Acquired an open source textual data related to Tourism",
+        "Acquired an open source textual data related to Tourism.",
         "Processed the data using different NLP techniques such as coreference resolution.",
         "Trained the state-of-the-art Transformers model `RoBERTa` for the usage in the recommender system.",
         "Built a knowledge-based database using Neo4j.",
