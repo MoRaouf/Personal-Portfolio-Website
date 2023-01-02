@@ -5,6 +5,15 @@
   flex-direction: row;
 }
 
+.education-card:hover {
+  background-color: $buttonHover;
+  box-shadow: $lightBoxShadowDark 0px 20px 30px -10px;
+}
+.dark-mode.education-card:hover {
+  background-color: $buttonHover;
+  box-shadow: $achievementCertificateCardHoverDark 0px 20px 30px -10px;
+}
+
 .education-card:hover + .education-card-border {
   border-color: $educationCardBorder;
   width: 100%;
@@ -50,7 +59,7 @@
 }
 
 .education-card-right {
-  max-width: 70%;
+  max-width: 80%;
 }
 
 .education-text-subHeader {
@@ -76,7 +85,7 @@
 }
 
 .education-text-bullets > ul {
-  color: $subTitle;
+  color: $talkCardSubTitle;
   margin-top: 0.5rem;
 }
 
