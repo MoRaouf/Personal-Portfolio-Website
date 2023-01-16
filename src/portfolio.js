@@ -25,7 +25,7 @@ const greeting = {
   subTitle: emoji("Applied Data Scientist & NLP Engineer. I have grown knowledge of data and its impact on the business, building & delivering predictive models & using SOTA language models to tackle business needs."),
 //   subTitle: emoji("Data Scientist 👨‍💻 | Curious NLP Engineer 🤖| Tech Writer ✍️"),
   resumeLink:
-    "https://drive.google.com/file/d/1OYhXSNaAYujU3Zw8xkIMsRBqfG82InjO/view?usp=share_link", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1etPFjhFkQuANo927kJPfcX4r_51p0OSA/view?usp=share_link", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -181,7 +181,7 @@ const workExperiences = {
     {
       role: "Data Scientist",
       company: "Omdena",
-      companylogo: require("./assets/images/TechnoFuture_logo.png"),
+      companylogo: require("./assets/images/Omdena.png"),
       date: "NOV 2022 - Present",
       // location: "Remote",
       desc:
@@ -190,7 +190,7 @@ const workExperiences = {
     {
       role: "Planning Engineer",
       company: "Western Beach",
-      companylogo: require("./assets/images/embedded_desien.jpg"),
+      companylogo: require("./assets/images/WesternBeach.png"),
       date: "JAN 2020 - DEC 2022",
       // location: "Abu Dhabi, UAE",
       desc:
@@ -228,7 +228,7 @@ const bigProjects = {
   subtitle: "A list of my most recent open source projects",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
+      image: require("./assets/images/PckgRecommendation.png"),
       projectName: "Package Recommendation using various ML algorithms",
       projectDesc: "ML full pipeline applied to package recommendation system",
       footerLink: [
@@ -240,7 +240,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
+      image: require("./assets/images/ChurnAnalysis.png"),
       projectName: "Customer Churn Analysis using PySpark",
       projectDesc: "In this project we conducted churn analysis on customer history & information in the Telecom industry",
       footerLink: [
@@ -252,12 +252,12 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
+      image: require("./assets/images/SentimentAnalysis.png"),
       projectName: "Expo2020 Twitter Sentiment Analysis",
       projectDesc: "Sentiment analysis was conducted for the event EXPO2020 to understand audience feelings",
       footerLink: [
         {
-          name: "Visit Website",
+          name: "Check on GitHub",
           url: "https://github.com/MoRaouf/twitter-sentiment-analysis"
         }
       ]
@@ -279,7 +279,7 @@ const achievementSection = {
       title: "Querying with Cypher in Neo4j 4.x",
       subtitle:
         "Neo4j GraphAcademy",
-      image: require("./assets/images/codeInLogo.webp"),
+      image: require("./assets/images/Neo4J-Cert.png"),
       footerLink: [
         {
           name: "View Certification",
@@ -299,7 +299,7 @@ const achievementSection = {
       title: "Improving Deep Neural Networks",
       subtitle:
         "Coursera",
-      image: require("./assets/images/googleAssistantLogo.webp"),
+      image: require("./assets/images/Coursera-Cert.png"),
       footerLink: [
         {
           name: "View Certification",
@@ -311,7 +311,7 @@ const achievementSection = {
     {
       title: "Intermediate SQL For Data Analysis",
       subtitle: "DataQuest.io",
-      image: require("./assets/images/pwaLogo.webp"),
+      image: require("./assets/images/Coursera-Cert.png"),
       footerLink: [
         {name: "Certification", url: ""},
         {
