@@ -25,7 +25,7 @@ const greeting = {
   subTitle: emoji("Applied Data Scientist & NLP Engineer. I have grown knowledge of data and its impact on the business, building & delivering predictive models & using SOTA language models to tackle business needs."),
 //   subTitle: emoji("Data Scientist 👨‍💻 | Curious NLP Engineer 🤖| Tech Writer ✍️"),
   resumeLink:
-    "https://drive.google.com/drive/folders/1sa5V7hjf66fkZuOpJz1Th2jQNC9WBKOk?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1OYhXSNaAYujU3Zw8xkIMsRBqfG82InjO/view?usp=share_link", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -54,6 +54,7 @@ const skillsSection = {
   subTitle: "PASSIONATE DATA SCIENTIST WITH INTEREST IN THE INTERSECTION BETWEEN NLP & TOURISM",
   skills: [
     emoji("⚡ Leverage knowledge of data science, methodologies, and processing techniques to analyze vast amounts of data for decision support."),
+    emoji("⚡ Build predictive models using various ML methods."),
     emoji("⚡ Use state-of-the-art NLP models to solve Tourism-related problems."),
     emoji("⚡ Acquire growing knowledge of Big Data & Cloud Deployment."),
   ],
@@ -178,37 +179,37 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Robotics Instructor",
-      company: "Techno Future Egypt",
+      role: "Data Scientist",
+      company: "Omdena",
       companylogo: require("./assets/images/TechnoFuture_logo.png"),
-      date: "OCT 2021 - MAR 2022",
-      // location: "Alexandria, Eygpt",
+      date: "NOV 2022 - Present",
+      // location: "Remote",
       desc:
-        "Taught kids how to build robots, and how to program them using sequence programming methods, Problem Solving, Robot Design, Lego pieces, EV3 programming, and PID Controller.",
+        "Contributor to various open-source projects in Data Science, Machine Learning & NLP  .",
     },
     {
-      role: "Embedded Engineer",
-      company: "Freelancer",
+      role: "Planning Engineer",
+      company: "Western Beach",
       companylogo: require("./assets/images/embedded_desien.jpg"),
-      date: "SEP 2020 - SEP 2021",
-      // location: "Alexandria, Eygpt",
+      date: "JAN 2020 - DEC 2022",
+      // location: "Abu Dhabi, UAE",
       desc:
-      " I was working as a PCB design Engineer. PCB design is my profession as well as my hobby. I have delivered many PCB layouts for successful products. I would like to give my best service and talent to the projects.",
-    },
-    {
-      role: "Electrical Team Member",
-      company: "M.I.A Robotics",
-      companylogo: require("./assets/images/MIA_logo.png"),
-      date: "JUN 2018 - JAN 2020",
-      // location: "Alexandria, Eygpt",
-      desc:
-        "M.I.A is a technical team of Alexandria University students. I was involved in ABU Robocon which is a robotics competition.",
-      descBullets: [
-        "Designed control circuits used in the quadruped robot.",
-        "Worked on a wireless communications system with the wheeled robot and ps2 joystick (pilot).",
-        "Worked on Reversed engineering for cytron 10-A motor driver.",
-      ]
+      "",
     }
+//     {
+//       role: "Electrical Team Member",
+//       company: "M.I.A Robotics",
+//       companylogo: require("./assets/images/MIA_logo.png"),
+//       date: "JUN 2018 - JAN 2020",
+//       // location: "Alexandria, Eygpt",
+//       desc:
+//         "M.I.A is a technical team of Alexandria University students. I was involved in ABU Robocon which is a robotics competition.",
+//       descBullets: [
+//         "Designed control circuits used in the quadruped robot.",
+//         "Worked on a wireless communications system with the wheeled robot and ps2 joystick (pilot).",
+//         "Worked on Reversed engineering for cytron 10-A motor driver.",
+//       ]
+//     }
   ]
 };
 
@@ -228,48 +229,36 @@ const bigProjects = {
   projects: [
     {
       image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectName: "Package Recommendation using various ML algorithms",
+      projectDesc: "ML full pipeline applied to package recommendation system",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
+          name: "Check on GitHub",
+          url: "https://github.com/MoRaouf/Holiday-Package-Recommendations-using-different-ML-algorithms"
         }
         //  you can add extra buttons here.
       ]
     },
     {
       image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectName: "Customer Churn Analysis using PySpark",
+      projectDesc: "In this project we conducted churn analysis on customer history & information in the Telecom industry",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
-        }
-        //  you can add extra buttons here.
-      ]
-    },
-    {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
+          name: "Check on GitHub",
+          url: "https://github.com/MoRaouf/Churn-Analysis-PySpark"
         }
         //  you can add extra buttons here.
       ]
     },
     {
       image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectName: "Expo2020 Twitter Sentiment Analysis",
+      projectDesc: "Sentiment analysis was conducted for the event EXPO2020 to understand audience feelings",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://nextu.se/"
+          url: "https://github.com/MoRaouf/twitter-sentiment-analysis"
         }
       ]
     }
@@ -287,47 +276,47 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
+      title: "Querying with Cypher in Neo4j 4.x",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
+        "Neo4j GraphAcademy",
       image: require("./assets/images/codeInLogo.webp"),
       footerLink: [
         {
-          name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+          name: "View Certification",
+          url: ""
         },
-        {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
-        }
+//         {
+//           name: "Award Letter",
+//           url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
+//         },
+//         {
+//           name: "Google Code-in Blog",
+//           url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
+//         }
       ]
     },
     {
-      title: "Google Assistant Action",
+      title: "Improving Deep Neural Networks",
       subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
+        "Coursera",
       image: require("./assets/images/googleAssistantLogo.webp"),
       footerLink: [
         {
-          name: "View Google Assistant Action",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          name: "View Certification",
+          url: ""
         }
       ]
     },
 
     {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
+      title: "Intermediate SQL For Data Analysis",
+      subtitle: "DataQuest.io",
       image: require("./assets/images/pwaLogo.webp"),
       footerLink: [
         {name: "Certification", url: ""},
         {
-          name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
+          name: "View Certification",
+          url: ""
         }
       ]
     }
