@@ -40,7 +40,9 @@
 }
 .certificate-image-div {
   position: relative;
-  height: 250px;
+  max-width: 100%;
+  height: auto;
+//   height: 250px;
   overflow: hidden;
   text-align: center;
 }
