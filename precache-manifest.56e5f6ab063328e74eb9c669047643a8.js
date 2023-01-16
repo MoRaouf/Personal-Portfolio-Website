@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "44ee8a06429de1be0e16ebfbdcb3f24c",
+    "revision": "787221f441e95768360721fccc4f2332",
     "url": "/index.html"
   },
   {
-    "revision": "bc43bf5050307852404f",
+    "revision": "9574f1ea7e0977cdbf89",
     "url": "/static/css/3.dd15f65b.chunk.css"
   },
   {
-    "revision": "75ae5f33b4b6d328910e",
+    "revision": "575e97ae69ca7427bbdc",
     "url": "/static/css/4.5233b497.chunk.css"
   },
   {
-    "revision": "15db1ee64c48442acf05",
+    "revision": "ece77c904ca67bc2f01e",
     "url": "/static/css/main.86db819a.chunk.css"
   },
   {
-    "revision": "00d06e4da6d49d0205bd",
-    "url": "/static/js/2.7c64f96e.chunk.js"
+    "revision": "7e5be417818fc3201b9e",
+    "url": "/static/js/2.0e32ae4f.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/static/js/2.7c64f96e.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.0e32ae4f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bc43bf5050307852404f",
-    "url": "/static/js/3.79e48779.chunk.js"
+    "revision": "9574f1ea7e0977cdbf89",
+    "url": "/static/js/3.105f5a0f.chunk.js"
   },
   {
-    "revision": "75ae5f33b4b6d328910e",
-    "url": "/static/js/4.b461c524.chunk.js"
+    "revision": "575e97ae69ca7427bbdc",
+    "url": "/static/js/4.12987857.chunk.js"
   },
   {
-    "revision": "15db1ee64c48442acf05",
-    "url": "/static/js/main.6d0293f1.chunk.js"
+    "revision": "ece77c904ca67bc2f01e",
+    "url": "/static/js/main.2e9c0330.chunk.js"
   },
   {
-    "revision": "67d840faf8b772641524",
-    "url": "/static/js/runtime-main.c2faf07c.js"
+    "revision": "6d7112e73678f9190be3",
+    "url": "/static/js/runtime-main.9e08ff0b.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -46,10 +46,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7a870290bc48efa62703cf5ce77939a0",
     "url": "/static/media/Heriot-WattLogo.7a870290.png"
-  },
-  {
-    "revision": "57cf954af3795333eb3e928daffdd4aa",
-    "url": "/static/media/MIA_logo.57cf954a.png"
   },
   {
     "revision": "3d87a14b57ac4c6ea4163bd8735d9398",
