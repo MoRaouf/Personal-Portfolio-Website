@@ -228,7 +228,7 @@ const bigProjects = {
   subtitle: "A list of my most recent open source projects",
   projects: [
     {
-      image: require("./assets/images/PckgRecommendation.png"),
+//       image: require("./assets/images/PckgRecommendation.png"),
       projectName: "Package Recommendation using various ML algorithms",
       projectDesc: "ML full pipeline applied to package recommendation system",
       footerLink: [
@@ -240,7 +240,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/ChurnAnalysis.png"),
+//       image: require("./assets/images/ChurnAnalysis.png"),
       projectName: "Customer Churn Analysis using PySpark",
       projectDesc: "In this project we conducted churn analysis on customer history & information in the Telecom industry",
       footerLink: [
@@ -252,7 +252,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/SentimentAnalysis.png"),
+//       image: require("./assets/images/SentimentAnalysis.png"),
       projectName: "Expo2020 Twitter Sentiment Analysis",
       projectDesc: "Sentiment analysis was conducted for the event EXPO2020 to understand audience feelings",
       footerLink: [
