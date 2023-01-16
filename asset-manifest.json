@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.86db819a.chunk.css",
+    "main.css": "/static/css/main.ff2ff966.chunk.css",
     "main.js": "/static/js/main.707a078d.chunk.js",
     "main.js.map": "/static/js/main.707a078d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4ac3f998.js",
@@ -14,11 +14,11 @@
     "static/js/4.c411752a.chunk.js": "/static/js/4.c411752a.chunk.js",
     "static/js/4.c411752a.chunk.js.map": "/static/js/4.c411752a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7933971a8fa2545b9bf56792bdb1f215.js": "/precache-manifest.7933971a8fa2545b9bf56792bdb1f215.js",
+    "precache-manifest.27748bf4b5bf5d9bc14d1d889b3eed00.js": "/precache-manifest.27748bf4b5bf5d9bc14d1d889b3eed00.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.dd15f65b.chunk.css.map": "/static/css/3.dd15f65b.chunk.css.map",
     "static/css/4.5233b497.chunk.css.map": "/static/css/4.5233b497.chunk.css.map",
-    "static/css/main.86db819a.chunk.css.map": "/static/css/main.86db819a.chunk.css.map",
+    "static/css/main.ff2ff966.chunk.css.map": "/static/css/main.ff2ff966.chunk.css.map",
     "static/js/2.a61c8be9.chunk.js.LICENSE.txt": "/static/js/2.a61c8be9.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Coursera-Cert.png": "/static/media/Coursera-Cert.38e03ea9.png",
@@ -34,7 +34,7 @@
   "entrypoints": [
     "static/js/runtime-main.4ac3f998.js",
     "static/js/2.a61c8be9.chunk.js",
-    "static/css/main.86db819a.chunk.css",
+    "static/css/main.ff2ff966.chunk.css",
     "static/js/main.707a078d.chunk.js"
   ]
 }
