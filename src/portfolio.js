@@ -313,7 +313,6 @@ const achievementSection = {
       subtitle: "DataQuest.io",
       image: require("./assets/images/Coursera-Cert.png"),
       footerLink: [
-        {name: "Certification", url: ""},
         {
           name: "View Certification",
           url: ""
