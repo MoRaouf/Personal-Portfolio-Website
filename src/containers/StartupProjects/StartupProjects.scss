@@ -25,6 +25,10 @@
   border-radius: 10px;
   border: 1px solid $lightBorder1;
   justify-content: center;
+  -webkit-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  margin-top: 30px;
 }
 .project-card-light {
   box-shadow: $lightBoxShadowDark 0px 10px 30px -15px;
@@ -49,7 +53,7 @@
 }
 .project-card-dark:hover {
   background-color: $buttonHover;
-  box-shadow: 0px 20px 30px -10px $darkBoxShadow;
+  box-shadow: $darkBoxShadow 0px 20px 30px -10px;
 }
 .project-image {
   position: relative;
