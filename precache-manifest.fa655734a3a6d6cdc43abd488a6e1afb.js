@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "787221f441e95768360721fccc4f2332",
+    "revision": "777aab6f7c1e21005fec751e66ddcf4d",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.5233b497.chunk.css"
   },
   {
-    "revision": "ece77c904ca67bc2f01e",
+    "revision": "1b206837fbf698dab24b",
     "url": "/static/css/main.86db819a.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.12987857.chunk.js"
   },
   {
-    "revision": "ece77c904ca67bc2f01e",
-    "url": "/static/js/main.2e9c0330.chunk.js"
+    "revision": "1b206837fbf698dab24b",
+    "url": "/static/js/main.155aa4b1.chunk.js"
   },
   {
     "revision": "6d7112e73678f9190be3",
@@ -42,6 +42,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "/static/media/Agustina.21f233e1.woff"
+  },
+  {
+    "revision": "8a331021c009957b0db293a6d12aa26e",
+    "url": "/static/media/ChurnAnalysis.8a331021.png"
+  },
+  {
+    "revision": "38e03ea9e2f8fa3eccae5b4504b233ef",
+    "url": "/static/media/Coursera-Cert.38e03ea9.png"
   },
   {
     "revision": "7a870290bc48efa62703cf5ce77939a0",
@@ -56,12 +64,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
-    "revision": "f2b67eaad569f7a5eb922456ca5b1519",
-    "url": "/static/media/TechnoFuture_logo.f2b67eaa.png"
+    "revision": "5d39da2a4fe38713643b034edf8c8692",
+    "url": "/static/media/PckgRecommendation.5d39da2a.png"
   },
   {
-    "revision": "47a7a717679b640ceb1b05d38c480a61",
-    "url": "/static/media/codeInLogo.47a7a717.webp"
+    "revision": "5afb873306c550358c3f83e0ef3a65e2",
+    "url": "/static/media/SentimentAnalysis.5afb8733.png"
+  },
+  {
+    "revision": "2946fd76814d3ed5ca8e3478a89f6805",
+    "url": "/static/media/WesternBeach.2946fd76.png"
   },
   {
     "revision": "51cf7192327488da3d2a171280680c16",
@@ -72,28 +84,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/developerActivity.59389695.svg"
   },
   {
-    "revision": "e51e0f84d78658d79dff4b92efec75d3",
-    "url": "/static/media/embedded_desien.e51e0f84.jpg"
-  },
-  {
-    "revision": "e79c639294c805688be731921368c8f8",
-    "url": "/static/media/googleAssistantLogo.e79c6392.webp"
-  },
-  {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/static/media/manOnTable.52be3144.svg"
-  },
-  {
-    "revision": "829ad0a1deef4d7295adfecdf12df2be",
-    "url": "/static/media/nextuLogo.829ad0a1.webp"
-  },
-  {
-    "revision": "ee62cb58630f29a6e6201b49d4c03728",
-    "url": "/static/media/pwaLogo.ee62cb58.webp"
-  },
-  {
-    "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
-    "url": "/static/media/saayaHealthLogo.25018d29.webp"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",

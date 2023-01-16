@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.86db819a.chunk.css",
-    "main.js": "/static/js/main.2e9c0330.chunk.js",
-    "main.js.map": "/static/js/main.2e9c0330.chunk.js.map",
+    "main.js": "/static/js/main.155aa4b1.chunk.js",
+    "main.js.map": "/static/js/main.155aa4b1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9e08ff0b.js",
     "runtime-main.js.map": "/static/js/runtime-main.9e08ff0b.js.map",
     "static/js/2.0e32ae4f.chunk.js": "/static/js/2.0e32ae4f.chunk.js",
@@ -14,25 +14,23 @@
     "static/js/4.12987857.chunk.js": "/static/js/4.12987857.chunk.js",
     "static/js/4.12987857.chunk.js.map": "/static/js/4.12987857.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.56e5f6ab063328e74eb9c669047643a8.js": "/precache-manifest.56e5f6ab063328e74eb9c669047643a8.js",
+    "precache-manifest.fa655734a3a6d6cdc43abd488a6e1afb.js": "/precache-manifest.fa655734a3a6d6cdc43abd488a6e1afb.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.dd15f65b.chunk.css.map": "/static/css/3.dd15f65b.chunk.css.map",
     "static/css/4.5233b497.chunk.css.map": "/static/css/4.5233b497.chunk.css.map",
     "static/css/main.86db819a.chunk.css.map": "/static/css/main.86db819a.chunk.css.map",
     "static/js/2.0e32ae4f.chunk.js.LICENSE.txt": "/static/js/2.0e32ae4f.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/ChurnAnalysis.png": "/static/media/ChurnAnalysis.8a331021.png",
+    "static/media/Coursera-Cert.png": "/static/media/Coursera-Cert.38e03ea9.png",
     "static/media/Heriot-WattLogo.png": "/static/media/Heriot-WattLogo.7a870290.png",
     "static/media/Minia-Uni-logo.jpg": "/static/media/Minia-Uni-logo.3d87a14b.jpg",
-    "static/media/TechnoFuture_logo.png": "/static/media/TechnoFuture_logo.f2b67eaa.png",
-    "static/media/codeInLogo.webp": "/static/media/codeInLogo.47a7a717.webp",
+    "static/media/PckgRecommendation.png": "/static/media/PckgRecommendation.5d39da2a.png",
+    "static/media/SentimentAnalysis.png": "/static/media/SentimentAnalysis.5afb8733.png",
+    "static/media/WesternBeach.png": "/static/media/WesternBeach.2946fd76.png",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
     "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
-    "static/media/embedded_desien.jpg": "/static/media/embedded_desien.e51e0f84.jpg",
-    "static/media/googleAssistantLogo.webp": "/static/media/googleAssistantLogo.e79c6392.webp",
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
-    "static/media/nextuLogo.webp": "/static/media/nextuLogo.829ad0a1.webp",
-    "static/media/pwaLogo.webp": "/static/media/pwaLogo.ee62cb58.webp",
-    "static/media/saayaHealthLogo.webp": "/static/media/saayaHealthLogo.25018d29.webp",
     "static/media/skill.svg": "/static/media/skill.34409398.svg",
     "static/media/TalkCard.scss": "/static/media/talksCardBack.13780cdd.svg"
   },
@@ -40,6 +38,6 @@
     "static/js/runtime-main.9e08ff0b.js",
     "static/js/2.0e32ae4f.chunk.js",
     "static/css/main.86db819a.chunk.css",
-    "static/js/main.2e9c0330.chunk.js"
+    "static/js/main.155aa4b1.chunk.js"
   ]
 }
