@@ -25,7 +25,7 @@ const greeting = {
   subTitle: emoji("Applied Data Scientist & NLP Engineer. I have grown knowledge of data and its impact on the business, building & delivering predictive models & using SOTA language models to tackle business needs."),
 //   subTitle: emoji("Data Scientist 👨‍💻 | Curious NLP Engineer 🤖| Tech Writer ✍️"),
   resumeLink:
-    "https://drive.google.com/file/d/1etPFjhFkQuANo927kJPfcX4r_51p0OSA/view?usp=share_link", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1TSdNMaEGdtv-_RAb-eODG9QIIMrJxzH1/view?usp=share_link", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
