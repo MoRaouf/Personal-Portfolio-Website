@@ -296,7 +296,9 @@ const achievementSection = {
         {
           name: "View Certification",
           url: ""
-        },
+        }
+      ]
+    }
     {
       title: "Querying with Cypher in Neo4j 4.x",
       subtitle:
