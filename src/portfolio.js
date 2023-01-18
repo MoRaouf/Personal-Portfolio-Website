@@ -227,10 +227,22 @@ const bigProjects = {
   title: "GitHub Projects",
   subtitle: "A list of my most recent open source projects",
   projects: [
+     {
+//       image: require("./assets/images/ChurnAnalysis.png"),
+      projectName: "NLP-powered RecSys using Knowledge Graph for Tourism",
+      projectDesc: "A Recommendation System using state-of-the-art RoBERTa model with knowledge graph data base for package recommendation",
+      footerLink: [
+        {
+          name: "Check on GitHub",
+          url: "https://github.com/MoRaouf/Churn-Analysis-PySpark"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
     {
 //       image: require("./assets/images/PckgRecommendation.png"),
-      projectName: "Package Recommendation using various ML algorithms",
-      projectDesc: "ML full pipeline applied to package recommendation system",
+      projectName: "Holiday Package Recommendation",
+      projectDesc: "Various Machine Learning algorithms used to predict tourist package purchase",
       footerLink: [
         {
           name: "Check on GitHub",
@@ -242,7 +254,7 @@ const bigProjects = {
     {
 //       image: require("./assets/images/ChurnAnalysis.png"),
       projectName: "Customer Churn Analysis using PySpark",
-      projectDesc: "In this project we conducted churn analysis on customer history & information in the Telecom industry",
+      projectDesc: "Investigated churn analysis on customer history & information in the Telecom industry",
       footerLink: [
         {
           name: "Check on GitHub",
@@ -254,7 +266,7 @@ const bigProjects = {
     {
 //       image: require("./assets/images/SentimentAnalysis.png"),
       projectName: "Expo2020 Twitter Sentiment Analysis",
-      projectDesc: "Sentiment analysis was conducted for the event EXPO2020 to understand audience feelings",
+      projectDesc: "A multi-label sentiment classifier on EXPO2020 tweets to understand audience opinions & mainstream topics",
       footerLink: [
         {
           name: "Check on GitHub",
@@ -275,6 +287,16 @@ const achievementSection = {
     "Certifications and Some Cool Stuff that I have done!",
 
   achievementsCards: [
+    {
+      title: "AWS Certified Cloud Practitioner",
+      subtitle:
+        "AWS",
+      image: require("./assets/images/AWS-CCP.png"),
+      footerLink: [
+        {
+          name: "View Certification",
+          url: ""
+        },
     {
       title: "Querying with Cypher in Neo4j 4.x",
       subtitle:
