@@ -295,7 +295,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "View Certification",
-          url: ""
+          url: "https://www.credly.com/badges/2200ecdd-c2dd-4323-8a65-d9365897d330/public_url"
         }
       ]
     },
@@ -307,7 +307,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "View Certification",
-          url: ""
+          url: "https://drive.google.com/file/d/17muln3e2W1UwUXBn_XHotYxqvcxHJdZR/view?usp=share_link"
         },
 //         {
 //           name: "Award Letter",
@@ -327,7 +327,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "View Certification",
-          url: ""
+          url: "https://drive.google.com/file/d/1y7z4bYYxI3cAnFmaklrI8nFLdcYxeEtS/view?usp=share_link"
         }
       ]
     },
@@ -339,7 +339,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "View Certification",
-          url: ""
+          url: "https://drive.google.com/file/d/1NZHb-4aN595bGRi114INB1T_rppx9y2y/view?usp=share_link"
         }
       ]
     }
@@ -368,10 +368,28 @@ const blogSection = {
         "Intro to Ensembles including Decision Trees, Random Forests & Boosting through XGBoost."
     },
     {
+      url: "https://www.notion.so/moraouf/OOP-Decorators-f7551e1b33504373b749bac7d8f5c334",
+      title: "OOP & Decorators",
+      description:
+        "Intro to Object-oriented Programming Concepts & Decorators in Python."
+    },
+    {
       url: "https://moraouf.notion.site/Principal-Component-Analysis-with-Eigenvectors-Eigenvalues-755a69fb69c142b99974e97f799869dd",
       title: "Principal Component Analysis (with Eigenvectors & Eigenvalues)",
       description:
         "One stop shop for understanding PCA with Eigenvectors & Eigenvalues."
+    },
+    {
+      url: "https://moraouf.notion.site/Evaluation-Metrics-Regression-Classification-ca671008644d4c89a7f1bc0cd362d4d6",
+      title: "Machine Learning Evaluation Metrics",
+      description:
+        "A brief into evaluating regression & classification models."
+    },
+    {
+      url: "https://moraouf.notion.site/Hypothesis-Testing-29b24227085947ccb1d2bedb2ed413aa",
+      title: "Hypothesis Testing",
+      description:
+        "Explaining Hypothesis Testing in Python."
     }
   ],
   display: true // Set false to hide this section, defaults to true
