@@ -334,7 +334,7 @@ const achievementSection = {
     {
       title: "Intermediate SQL For Data Analysis",
       subtitle: "DataQuest.io",
-      image: require("./assets/images/Coursera-Cert.png"),
+      image: require("./assets/images/Dataquest.png"),
       footerLink: [
         {
           name: "View Certification",
