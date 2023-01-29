@@ -331,9 +331,19 @@ const achievementSection = {
         }
       ]
     },
-
     {
       title: "Intermediate SQL For Data Analysis",
+      subtitle: "DataQuest.io",
+      image: require("./assets/images/Coursera-Cert.png"),
+      footerLink: [
+        {
+          name: "View Certification",
+          url: "https://drive.google.com/file/d/1NZHb-4aN595bGRi114INB1T_rppx9y2y/view?usp=share_link"
+        }
+      ]
+    },
+    {
+      title: "AAAAAAAAAAAAA",
       subtitle: "DataQuest.io",
       image: require("./assets/images/Coursera-Cert.png"),
       footerLink: [
