@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.ff2ff966.chunk.css",
-    "main.js": "/static/js/main.36a8120e.chunk.js",
-    "main.js.map": "/static/js/main.36a8120e.chunk.js.map",
+    "main.js": "/static/js/main.709b83c2.chunk.js",
+    "main.js.map": "/static/js/main.709b83c2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b26a3e10.js",
     "runtime-main.js.map": "/static/js/runtime-main.b26a3e10.js.map",
-    "static/js/2.c1e59ed1.chunk.js": "/static/js/2.c1e59ed1.chunk.js",
-    "static/js/2.c1e59ed1.chunk.js.map": "/static/js/2.c1e59ed1.chunk.js.map",
+    "static/js/2.ed9bf5f2.chunk.js": "/static/js/2.ed9bf5f2.chunk.js",
+    "static/js/2.ed9bf5f2.chunk.js.map": "/static/js/2.ed9bf5f2.chunk.js.map",
     "static/css/3.dd15f65b.chunk.css": "/static/css/3.dd15f65b.chunk.css",
     "static/js/3.2240ca03.chunk.js": "/static/js/3.2240ca03.chunk.js",
     "static/js/3.2240ca03.chunk.js.map": "/static/js/3.2240ca03.chunk.js.map",
@@ -14,12 +14,12 @@
     "static/js/4.da9be464.chunk.js": "/static/js/4.da9be464.chunk.js",
     "static/js/4.da9be464.chunk.js.map": "/static/js/4.da9be464.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.0f355ae4800a118792d16854a6eb6cf6.js": "/precache-manifest.0f355ae4800a118792d16854a6eb6cf6.js",
+    "precache-manifest.b15ee35dfb2247f55443657d9f9dac90.js": "/precache-manifest.b15ee35dfb2247f55443657d9f9dac90.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.dd15f65b.chunk.css.map": "/static/css/3.dd15f65b.chunk.css.map",
     "static/css/4.5233b497.chunk.css.map": "/static/css/4.5233b497.chunk.css.map",
     "static/css/main.ff2ff966.chunk.css.map": "/static/css/main.ff2ff966.chunk.css.map",
-    "static/js/2.c1e59ed1.chunk.js.LICENSE.txt": "/static/js/2.c1e59ed1.chunk.js.LICENSE.txt",
+    "static/js/2.ed9bf5f2.chunk.js.LICENSE.txt": "/static/js/2.ed9bf5f2.chunk.js.LICENSE.txt",
     "static/media/AWS-CCP.png": "/static/media/AWS-CCP.25ede0a6.png",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Coursera-Cert.png": "/static/media/Coursera-Cert.38e03ea9.png",
@@ -34,8 +34,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b26a3e10.js",
-    "static/js/2.c1e59ed1.chunk.js",
+    "static/js/2.ed9bf5f2.chunk.js",
     "static/css/main.ff2ff966.chunk.css",
-    "static/js/main.36a8120e.chunk.js"
+    "static/js/main.709b83c2.chunk.js"
   ]
 }
