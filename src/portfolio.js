@@ -234,7 +234,19 @@ const bigProjects = {
       footerLink: [
         {
           name: "Check on GitHub",
-          url: "https://github.com/MoRaouf/Churn-Analysis-PySpark"
+          url: "https://github.com/MoRaouf/NLP-powered-Recommender-System-using-Knowledge-Graph-for-Tourism"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+//       image: require("./assets/images/PckgRecommendation.png"),
+      projectName: "Tech Job Recommendation",
+      projectDesc: "A recommender for technical job based on input technical skills",
+      footerLink: [
+        {
+          name: "Check on GitHub",
+          url: "https://github.com/MoRaouf/Tech-Job-Recommendation"
         }
         //  you can add extra buttons here.
       ]
@@ -246,7 +258,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Check on GitHub",
-          url: "https://github.com/MoRaouf/Holiday-Package-Recommendations-using-different-ML-algorithms"
+          url: "https://github.com/MoRaouf/Holiday-Package-Recommendations"
         }
         //  you can add extra buttons here.
       ]
@@ -270,7 +282,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Check on GitHub",
-          url: "https://github.com/MoRaouf/twitter-sentiment-analysis"
+          url: "https://github.com/MoRaouf/Twitter-Sentiment-Analysis"
         }
       ]
     }
