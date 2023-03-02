@@ -81,10 +81,10 @@ From your command line, clone and run developerFolio:
 
 ```bash
 # Clone this repository
-git clone https://github.com/Eslam-Abdo/Eslam-Abdo.github.io.git 
+git clone https://github.com/MoRaouf/Personal-Portfolio-Website.git
 
 # Go into the repository
-cd Eslam-Abdo.github.io
+cd Personal-Portfolio-Website
 
 # Setup default environment variables
 
@@ -109,7 +109,7 @@ Generate a GitHub personal access token following these [instructions](https://h
 Note: Configuring environment variables before deploying your portfolio is highly recommended as some components depend on API data. 
 
 ```bash
-- Eslam-Abdo.github.io
+- Personal-Portfolio-Website
   - node_modules
   - public
   - src
@@ -163,16 +163,16 @@ Set `displayMediumBlogs` to true or false in portofolio.js to display fetched Me
 
 const greeting = {
   /* Your Summary And Greeting Section */
-  title: "Hi all I'm Islam",
-  subTitle: emoji("A passionate Embedded Software  Software Developer 🚀"),
-  resumeLink: "https://drive.google.com/drive folders/1sa5V7hjf66fkZuOpJz1Th2jQNC9WBKOk?usp=sharing"
+  title: "Hi all I'm Mohammed",
+  subTitle: emoji("Applied Data Scientist & NLP Engineer..."),
+  resumeLink: "..."
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/Eslam-Abdo",
-  linkedin: "https://www.linkedin.com/in/Islam-Abdo/",
-  gmail: "eng-islam.abdo1722@alexu.edu.eg",
+  github: "https://github.com/MoRaouf",
+  linkedin: "https://www.linkedin.com/in/mohammedraouf/",
+  gmail: "...",
 };
 
 
