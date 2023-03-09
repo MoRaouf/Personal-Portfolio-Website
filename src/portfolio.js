@@ -53,9 +53,9 @@ const skillsSection = {
   title: "Data Scientist & NLP Engineer",
   subTitle: "PASSIONATE DATA SCIENTIST WITH INTEREST IN THE INTERSECTION BETWEEN NLP & TOURISM",
   skills: [
-    emoji("⚡ Leverage knowledge of data science, methodologies, and processing techniques to analyze vast amounts of data for decision support."),
-    emoji("⚡ Build predictive models using various ML methods."),
-    emoji("⚡ Use state-of-the-art NLP models to solve Tourism-related problems."),
+    emoji("⚡ Leverage knowledge of data science and processing techniques to analyze vast amounts of data for decision support."),
+    emoji("⚡ Use state-of-the-art NLP models to solve business-related problems."),
+    emoji("⚡ Build & deploy predictive models using various ML methods."),
     emoji("⚡ Acquire growing knowledge of Big Data & Cloud Deployment."),
   ],
 
