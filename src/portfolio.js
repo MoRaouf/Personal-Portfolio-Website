@@ -252,18 +252,6 @@ const bigProjects = {
       ]
     },
     {
-//       image: require("./assets/images/PckgRecommendation.png"),
-      projectName: "Holiday Package Recommendation",
-      projectDesc: "Various Machine Learning algorithms used to predict tourist package purchase",
-      footerLink: [
-        {
-          name: "Check on GitHub",
-          url: "https://github.com/MoRaouf/Holiday-Package-Recommendations"
-        }
-        //  you can add extra buttons here.
-      ]
-    },
-    {
 //       image: require("./assets/images/ChurnAnalysis.png"),
       projectName: "Customer Churn Analysis using PySpark",
       projectDesc: "Investigated churn analysis on customer history & information in the Telecom industry",
@@ -284,6 +272,30 @@ const bigProjects = {
           name: "Check on GitHub",
           url: "https://github.com/MoRaouf/Twitter-Sentiment-Analysis"
         }
+      ]
+    },
+    {
+//       image: require("./assets/images/PckgRecommendation.png"),
+      projectName: "Holiday Package Recommendation",
+      projectDesc: "Various Machine Learning algorithms used to predict tourist package purchase",
+      footerLink: [
+        {
+          name: "Check on GitHub",
+          url: "https://github.com/MoRaouf/Holiday-Package-Recommendations"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+//       image: require("./assets/images/PckgRecommendation.png"),
+      projectName: "Energy Customer Churn Analysis",
+      projectDesc: "Helping BCG client to analyze their customers behavior & advise on churn solution",
+      footerLink: [
+        {
+          name: "Check on GitHub",
+          url: "https://github.com/MoRaouf/BCG-Energy-Customer-Churn-Analysis"
+        }
+        //  you can add extra buttons here.
       ]
     }
   ],
