@@ -242,7 +242,7 @@ const bigProjects = {
     {
 //       image: require("./assets/images/PckgRecommendation.png"),
       projectName: "Tech Job Recommendation",
-      projectDesc: "A recommender for technical job based on input technical skills",
+      projectDesc: "A helper tool for developers to get technical jobs recommendations & guidance on new skills to improve",
       footerLink: [
         {
           name: "Check on GitHub",
